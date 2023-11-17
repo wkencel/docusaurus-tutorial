@@ -23,7 +23,7 @@ const FeatureList = [
   },
   {
     title: 'Image Analysis',
-    Svg: require('@site/static/img/Visibility-Monitoring-Service-Icon-2.png').default,
+    Svg: require('@site/static/img/Visibility-Monitoring-Service-Icon-2.svg').default,
     description: (
       <>
         Object detection & classification, OCR, Healthcare imaging, and defect identification
