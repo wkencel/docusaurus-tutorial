@@ -5,7 +5,7 @@ import styles from './styles.module.css';
 const FeatureList = [
   {
     title: 'NLP & LLMs',
-    Svg: require('https://rafay.co/wp-content/uploads/2022/11/Icons-Operations-10.svg').default,
+    Svg: require('@site/static/img/Icons-Operations-10.svg').default,
     description: (
       <>
         Sentiment analysis, chatbots, automated help, and text classification
@@ -14,7 +14,7 @@ const FeatureList = [
   },
   {
     title: 'Multimodal',
-    Svg: require('https://rafay.co/wp-content/uploads/2022/11/icon-standardize-cluster.svg').default,
+    Svg: require('@site/static/img/icon-standardize-cluster.svg').default,
     description: (
       <>
         Fraud detection, predictive analysis, and 360-degree customer sentiment analysis
@@ -23,7 +23,7 @@ const FeatureList = [
   },
   {
     title: 'Image Analysis',
-    Svg: require('https://rafay.co/wp-content/uploads/2022/11/Visibility-Monitoring-Service-Icon-2.png').default,
+    Svg: require('@site/static/img/Visibility-Monitoring-Service-Icon-2.png').default,
     description: (
       <>
         Object detection & classification, OCR, Healthcare imaging, and defect identification
@@ -32,7 +32,7 @@ const FeatureList = [
   },
   {
     title: 'Audio Analysis',
-    Svg: require('https://rafay.co/wp-content/uploads/2020/09/announcement-speaker.svg').default,
+    Svg: require('@site/static/img/announcement-speaker.svg').default,
     description: (
       <>
         Speech recognition, audio signature detection, and voice generation
